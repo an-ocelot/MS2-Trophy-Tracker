@@ -34,4 +34,21 @@ var trophy_list = {
 		name : "Elite Boss Kills"
 
 	}
-};
+}
+
+var empty_progress = {
+
+	world_boss_kills : {
+
+		acreon : 0,
+		chky : 0
+
+	},
+
+	elite_boss_kills : {
+
+		
+
+	}
+
+}
