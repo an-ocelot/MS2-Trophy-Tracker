@@ -1,1 +1,36 @@
-# Maplestory-2-Trophy-Tracker
+# Maplestory 2 Trophy Tracker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yes
