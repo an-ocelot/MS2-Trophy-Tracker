@@ -26,6 +26,9 @@
 					div.innerHTML = JSON.stringify(data[x]);
 					document.getElementById("body").appendChild(div);
 				
+					var char_count = document.createElement("div");
+					char_count.innerHTML = 'Character count: ' + JSON.stringify(data[x]).length;
+					document.getElementById("body").appendChild(char_count);
 				}
 
 			}
