@@ -6,24 +6,34 @@
 
 		<meta charset="utf-8">
 
-		<title>Maplestory 2 Trophy Tracker</title>
-
-		<link rel="stylesheet" href="css/style.css">
+		<title>JSON Converter</title>
 
 	</head>
 
 	<body id="body">
 
-		<div id="top_scrollbar" class="scrollbar top"></div>
-		<div id="bottom_scrollbar" class="scrollbar bottom"></div>
+		<div id="output">Output goes here</div>
 
-		<div id="page" class="page">
-			
-		</div>
+		<script>
 
-		<script src="js/trophylist.js"></script>
-		<script src="js/parser.js"></script>
-	
+			var data = {};
+
+			window.onload = function(){
+
+				for (x in data){
+
+					var div = document.createElement("div");
+					div.innerHTML = JSON.stringify(data[x]);
+					document.getElementById("body").appendChild(div);
+				
+				}
+
+			}
+		
+		</script>
+
+		<script src="data/world_boss_kills.js"></script>
+
 	</body>
 
 </html>
