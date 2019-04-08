@@ -4,8 +4,6 @@ data.boss_trophies = {
   
   type : "normal",
   
-  veri : "some key",
-  
   world_bosses : {
   
     alpha_turtle : {
