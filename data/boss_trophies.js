@@ -2,8 +2,6 @@ data.boss_trophies = {
 
   name : "Boss Trophies",
   
-  type : "normal",
-  
   world_bosses : {
   
     alpha_turtle : {
