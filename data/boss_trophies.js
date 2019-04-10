@@ -2,9 +2,9 @@ data.boss_trophies = {
   
   name : "Boss Trophies",
   
-  size_c : 15,
+  size_c : 11,
     
-  size_r : 20,
+  size_r : 14,
   
   world_bosses : {
     
