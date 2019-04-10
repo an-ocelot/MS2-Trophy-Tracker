@@ -6,7 +6,7 @@
 		<title>JSON Converter</title> 
 	</head>
 
-	<body id="body">
+	<body id="body" style="overflow:scroll">
 
 		<script>
 
@@ -14,13 +14,14 @@
 
 			window.onload = function(){
 				for (x in data){
+					var char_count = document.createElement("div");
+					char_count.innerHTML = 'Character count for ' + x + ': ' + JSON.stringify(data[x]).length;
+					document.getElementById("body").appendChild(char_count);
+				
 					var div = document.createElement("div");
 					div.innerHTML = JSON.stringify(data[x]);
+					div.setAttribute("style", "white-space : nowrap; overflow : scroll");
 					document.getElementById("body").appendChild(div);
-
-					var char_count = document.createElement("div");
-					char_count.innerHTML = 'Character count: ' + JSON.stringify(data[x]).length;
-					document.getElementById("body").appendChild(char_count);
 				}
 			}
 		
