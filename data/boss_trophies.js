@@ -2,9 +2,9 @@ data.boss_trophies = {
   
   name : "Boss Trophies",
   
-  size_c : 100,
+  size_c : 15,
     
-  size_r : 100,
+  size_r : 20,
   
   world_bosses : {
     
@@ -134,6 +134,82 @@ data.boss_trophies = {
     
     }
   
+  },
+  
+  elite_bosses : {
+    
+    name : "Elite Bosses",
+    
+    type : "Boss",
+    
+    king_slime : {
+      
+      size : 2,
+      name : "King Slime",
+      
+      trophy1 : {
+        
+        name : "Honey, I Shrunk Myself",
+        desc : "Get shrunk",
+        amnt : "1"
+        
+      },
+      
+      trophy2 : {
+        
+        name : "Slime Prison",
+        desc : "Get trapped in water",
+        amnt : "1"
+        
+      }
+      
+    },
+    
+    mano : {
+      
+      size : 1,
+      name : "Mano",
+      
+      trophy1 : {
+        
+        name : "Ptooey!",
+        desc : "Get spat on",
+        amnt : "1/100/1000"
+        
+      }
+      
+    },
+    
+    madonette : {
+      
+      size : 1,
+      name : "Madonette",
+      
+      trophy1 : {
+        
+        name : "The Vanishing Girl",
+        desc : "Obtain The Vanishing Girl",
+        amnt : "1"
+        
+      }
+      
+    },
+    
+    urza : {
+      
+      size : 1,
+      name : "Urza",
+      
+      trophy1 : {
+        
+        name : "Urza's Diary",
+        desc : "Obtain Urza's Diary",
+        amnt : "1"
+        
+      }
+      
+    }
+    
   }
 
 }
