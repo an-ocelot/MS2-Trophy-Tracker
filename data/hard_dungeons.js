@@ -1,0 +1,1 @@
+data.hard_dungeons = {}
