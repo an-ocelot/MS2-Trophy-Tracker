@@ -4,7 +4,7 @@ data.classes = {
   
   size_c : 15,
     
-  size_r : 20,
+  size_r : 28,
   
   class_level : {
     
