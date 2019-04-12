@@ -19,7 +19,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Archer Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -27,7 +27,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Veteran Archer",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -35,7 +35,7 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Archer",
         desc : "Reach level 50",
         amnt : "1"
         
@@ -50,7 +50,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Assassin Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -58,7 +58,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Veteran Assassin",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -66,7 +66,7 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Assassin",
         desc : "Reach level 50",
         amnt : "1"
         
@@ -81,7 +81,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Berserker Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -89,7 +89,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Veteran Berserker",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -97,7 +97,7 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Berserker",
         desc : "Reach level 50",
         amnt : "1"
         
@@ -112,7 +112,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Heavy Gunner Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -120,7 +120,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Veteran Heavy Gunner",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -128,7 +128,7 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Heavy Gunner",
         desc : "Reach level 50",
         amnt : "1"
         
@@ -143,7 +143,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Knight Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -151,7 +151,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Veteran Knight",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -159,7 +159,7 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Knight",
         desc : "Reach level 50",
         amnt : "1"
         
@@ -174,7 +174,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Priest Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -182,7 +182,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Veteran Priest",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -190,7 +190,7 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Priest",
         desc : "Reach level 50",
         amnt : "1"
         
@@ -205,7 +205,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Runeblade Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -213,7 +213,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Veteran Runeblade",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -221,7 +221,7 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Runeblade",
         desc : "Reach level 50",
         amnt : "1"
         
@@ -236,7 +236,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Soul Binder Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -244,7 +244,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Soul Binder Warrior",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -252,7 +252,7 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Soul Binder",
         desc : "Reach level 50",
         amnt : "1"
         
@@ -267,7 +267,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Thief Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -275,7 +275,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Veteran Thief",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -283,7 +283,7 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Thief",
         desc : "Reach level 50",
         amnt : "1"
         
@@ -298,7 +298,7 @@ data.classes = {
       
       trophy1 : {
         
-        name : "name",//****************************************
+        name : "Wizard Trainee",
         desc : "Reach level 30",
         amnt : "1"
         
@@ -306,7 +306,7 @@ data.classes = {
       
       trophy2 : {
         
-        name : "name",//****************************************
+        name : "Veteran Wizard",
         desc : "Reach level 40",
         amnt : "1"
         
@@ -314,14 +314,45 @@ data.classes = {
       
       trophy3 : {
         
-        name : "name",//****************************************
+        name : "Master Wizard",
         desc : "Reach level 50",
         amnt : "1"
         
       }
-
+      
     }
   
+  },
+  
+  classes : {
+    
+    name : "Job Master",
+    
+    type : "Masteries",
+    
+    grandmaster : {
+    
+      size : 2,
+      name : "Master Jobs",
+      
+      trophy1 : {
+        
+        name : "Grandmaster",
+        desc : "Obtain Master lvl 50 trophies",
+        amnt : "1/2/3/4/5"
+        
+      },
+      
+      trophy2 : {
+        
+        name : "Master of All Trades",
+        desc : "Obtain Master lvl 50 trophies",
+        amnt : "8"
+        
+      }
+      
+    }
+    
   }
 
 }
