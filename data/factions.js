@@ -257,7 +257,7 @@ data.factions = {
     
     rumble : {
 
-      size : 6,
+      size : 13,
       name : "Fortress Rumble",
 
       trophy1 : {
@@ -356,7 +356,7 @@ data.factions = {
 
       },
       
-      trophy12 : {
+      trophy13 : {
 
         name : "Captain's Keeper",
         desc : "Earn S+ Rank in Maple Alliance",
