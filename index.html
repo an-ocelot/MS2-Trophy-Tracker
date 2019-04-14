@@ -21,7 +21,7 @@
 				
 					var div = document.createElement("div");
 					div.innerHTML = JSON.stringify(data[x]);
-					div.setAttribute("style", "white-space : nowrap; overflow : scroll");
+					div.setAttribute("style", "white-space : nowrap; overflow-x : scroll; overflow-y : hidden");
 					document.getElementById("body").appendChild(div);
 				}
 			}
