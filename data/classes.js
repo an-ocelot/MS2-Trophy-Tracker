@@ -1,6 +1,6 @@
 data.classes = {
 
-  name : "Class Trophies",
+  name : "Classes",
   
   size_c : 30,
     
