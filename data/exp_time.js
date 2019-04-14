@@ -1,6 +1,6 @@
 data.exp_time = {
   
-  name : "Experience/Time Trophies",
+  name : "Experience/Time",
   
   size_c : 15,
     
