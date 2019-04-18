@@ -210,6 +210,104 @@ data.boss_trophies = {
       
     }
     
+  },
+  
+  combos : {
+    
+    name : "Combinations",
+    
+    type : "",
+    
+    devilin : {
+      
+      size : 1,
+      name : "Devilin",
+      
+      trophy1 : {
+        
+        name : "Devilin Hunter",
+        desc : "Defeat Devilins",
+        amnt : "1/10/50"
+        
+      }
+      
+    },
+    
+    devilin : {
+      
+      size : 1,
+      name : "Devilins",
+      
+      trophy1 : {
+        
+        name : "Devilin Hunter",
+        desc : "Defeat Devilins",
+        amnt : "1/10/50"
+        
+      }
+      
+    },
+    
+    baphomets : {
+      
+      size : 1,
+      name : "Baphomets",
+      
+      trophy1 : {
+        
+        name : "Baphomet Hunter",
+        desc : "Defeat Baphomets",
+        amnt : "1/10/50"
+        
+      }
+      
+    },
+    
+    vayars : {
+      
+      size : 1,
+      name : "Vayars",
+      
+      trophy1 : {
+        
+        name : "Vayar Hunter",
+        desc : "Defeat Vayars",
+        amnt : "1/10/50"
+        
+      }
+      
+    },
+    
+    griffins : {
+      
+      size : 1,
+      name : "Griffins",
+      
+      trophy1 : {
+        
+        name : "Griffin Hunter",
+        desc : "Defeat Griffins",
+        amnt : "1/10/50"
+        
+      }
+      
+    },
+    
+    masked : {
+      
+      size : 1,
+      name : "Lo/Toh",
+      
+      trophy1 : {
+        
+        name : "Broken Mask",
+        desc : "Defeat Lo/Toh",
+        amnt : "1/10/50"
+        
+      }
+      
+    }
+    
   }
 
 }
