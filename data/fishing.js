@@ -6,11 +6,34 @@ data.fishing = {
     
   size_r : 20,
   
-  category : {
+  fishing : {
     
-    name : "name",
+    name : "Fishing",
     
-    type : "type",
+    type : "Type",
+  
+    group1 : {
+    
+      size : 1, //Amount of trophies
+      name : "name", //Group name
+      
+      trophy1 : {
+        
+        name : "name", //Trophy name
+        desc : "desc", //Trophy description
+        amnt : "amnt" //Trophy amount
+        
+      }
+
+    }
+  
+  },
+  
+  prize_fish : {
+    
+    name : "Prize Fish",
+    
+    type : "Fish",
   
     group1 : {
     
