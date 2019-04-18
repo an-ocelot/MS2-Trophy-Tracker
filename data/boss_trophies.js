@@ -212,26 +212,11 @@ data.boss_trophies = {
     
   },
   
-  combos : {
+  combinations : {
     
     name : "Combinations",
     
     type : "",
-    
-    devilin : {
-      
-      size : 1,
-      name : "Devilin",
-      
-      trophy1 : {
-        
-        name : "Devilin Hunter",
-        desc : "Defeat Devilins",
-        amnt : "1/10/50"
-        
-      }
-      
-    },
     
     devilin : {
       
