@@ -2,10 +2,6 @@ data.factions = {
   
   name : "Factions",
   
-  size_c : 15,
-    
-  size_r : 20,
-  
   faction_spec : {
     
     name : "Faction Specific Trophies",
