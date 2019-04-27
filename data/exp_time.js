@@ -2,10 +2,6 @@ data.exp_time = {
   
   name : "Experience/Time",
   
-  size_c : 15,
-    
-  size_r : 20,
-  
   experience : {
     
     name : "Experience",
