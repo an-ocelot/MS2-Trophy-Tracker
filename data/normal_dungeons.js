@@ -2,10 +2,6 @@ data.normal_dungeons = {
   
   name : "Normal Dungeons",
   
-  size_c : 50,
-    
-  size_r : 50,
-  
   hundred_runs : {
     
     name : "100 Run Dungeons",
