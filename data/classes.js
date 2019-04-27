@@ -2,10 +2,6 @@ data.classes = {
 
   name : "Classes",
   
-  size_c : 30,
-    
-  size_r : 15,
-  
   class_level : {
     
     name : "Class Trophies",
