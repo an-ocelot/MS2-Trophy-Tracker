@@ -2,10 +2,6 @@ data.consumables = {
 
   name : "Consumables",
   
-  size_c : 50,
-    
-  size_r : 50,
-  
   specific_locations : {
     
     name : "Meso Consumables",
