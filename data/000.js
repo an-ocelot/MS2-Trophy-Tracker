@@ -3,10 +3,6 @@ data.example = {
   
   name : "name", //Sheet name
   
-  size_c : 15, //Sheet size in columns
-    
-  size_r : 20, //Sheet size in rows
-  
   category : { //A category stretches the entire row
     
     name : "name", //Category name
