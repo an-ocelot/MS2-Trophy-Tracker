@@ -2,10 +2,6 @@ data.boss_trophies = {
   
   name : "Boss Trophies",
   
-  size_c : 11,
-    
-  size_r : 14,
-  
   world_bosses : {
     
     name : "World Bosses",
