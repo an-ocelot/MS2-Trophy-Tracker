@@ -149,7 +149,7 @@ data.guild_raids = {
   
     grindy : {
     
-      size : 1,
+      size : 2,
       name : "Multiple",
       
       trophy1 : {
