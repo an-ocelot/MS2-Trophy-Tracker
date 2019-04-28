@@ -1,10 +1,10 @@
 data.guild_raids = {
   
-  name : "name", //Sheet name
+  name : "Guild Raids",
   
-  category : { //A category stretches the entire row
+  l_one : {
     
-    name : "name", //Category name
+    name : "L1: Apuella Outback",
     
     type : "type", //Category name description
   
