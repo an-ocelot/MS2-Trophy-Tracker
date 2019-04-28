@@ -1,0 +1,1 @@
+data.throwable_objects = {}
