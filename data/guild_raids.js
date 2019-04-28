@@ -95,7 +95,7 @@ data.guild_raids = {
     
     success : {
     
-      size : 1,
+      size : 2,
       name : "One Success",
       
       trophy1 : {
